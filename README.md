@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catfrd
+- 👋 Hi, I’m Savari rhea charis
 - 👀 I’m interested in ethical hacking and web development
 - 🌱 I’m currently learning ethical hacking basics
 - 💞️ I’m looking to collaborate on ...
